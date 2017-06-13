@@ -1,0 +1,24 @@
+
+
+npm init --yes
+
+
+bower init --yes
+
+
+npm install gulp --save-dev
+
+npm install gulp-less --save-dev
+
+bower install --save-dev bootstrap
+
+
+npm install --save-dev gulp-load-plugins
+
+npm install --save-dev gulp-clean-css
+
+npm install --save-dev gulp-concat
+
+npm install --save-dev browser-sync
+
+npm install --save-dev gulp-notify
