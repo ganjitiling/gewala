@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bastbinW/gewara-web.git"
+    "url": "git+https://github.com/ganjitiling/gewala.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bastbinW/gewara-web/issues"
+    "url": "https://github.com/ganjitiling/gewala.git"
   },
-  "homepage": "https://github.com/bastbinW/gewara-web#readme",
+  "homepage": "https://github.com/ganjitiling/gewala.git#readme",
   "devDependencies": {
     "browser-sync": "^2.18.11",
     "gulp": "^3.9.1",
@@ -27,3 +27,4 @@
     "gulp-notify": "^3.0.0"
   }
 }
+
